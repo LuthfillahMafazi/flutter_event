@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468206853175",
+    "project_id": "event-187f4",
+    "storage_bucket": "event-187f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468206853175:android:340dbd651e2254197eb3b2",
+        "android_client_info": {
+          "package_name": "com.zii.flutter_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468206853175-2qtccbusjs4pd7d9i7t5suscaush13u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHC4uptz0x54VdLVPkFekttZjmjlb4I3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468206853175-2qtccbusjs4pd7d9i7t5suscaush13u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
